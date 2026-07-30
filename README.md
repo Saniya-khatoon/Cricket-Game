@@ -2,22 +2,22 @@
 
 A simple **Bat Ball Stump Game** built using **HTML, CSS, and JavaScript**. Play against the computer and see if you can win!
 
-## 🚀 Features
+##  Features
 
-- 🎮 Play Bat, Ball, or Stump
-- 🤖 Random computer choice
-- 🏆 Win, Lose, or Tie result
-- 📊 Live score tracking
-- 💾 Score saved using Local Storage
-- 🔄 Reset Game button
+-  Play Bat, Ball, or Stump
+-  Random computer choice
+-  Win, Lose, or Tie result
+-  Live score tracking
+-  Score saved using Local Storage
+-  Reset Game button
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Bat-Ball-Stump-Game/
@@ -30,30 +30,30 @@ Bat-Ball-Stump-Game/
 │── README.md
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Start playing!
 
-## 🎯 Game Rules
+##  Game Rules
 
-- 🏏 Bat beats Ball
-- ⚾ Ball beats Stump
-- 🪵 Stump beats Bat
+-  Bat beats Ball
+-  Ball beats Stump
+-  Stump beats Bat
 - Same choice = Tie
 
-## 📸 Screenshot
+##  Screenshot
 
 Add a screenshot of your game here.
 
-## 👩‍💻 Author
+##  Author
 
 **Saniya Parveen**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/saniya-khatoon
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+ If you like this project, don't forget to give it a star!
